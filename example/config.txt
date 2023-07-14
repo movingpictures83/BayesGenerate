@@ -1,0 +1,2 @@
+Prefix plugins/BayesGenerate/example
+Plugin BayesGenerate inputfile parameters.txt outputfile .
